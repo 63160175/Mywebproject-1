@@ -12,12 +12,14 @@
 
 ## Example code
 
+```
 <javascript>
 
 alert(‘ok’);
 
 </javascript>
 
+```
 
 ## Credit
 
